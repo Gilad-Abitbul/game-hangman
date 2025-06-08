@@ -1,0 +1,154 @@
+{
+  "words": [
+    {
+      "word": "apple",
+      "category": "Fruit",
+      "description": "A sweet and crisp fruit that comes in many varieties, often red, green, or yellow."
+    },
+    {
+      "word": "banana",
+      "category": "Fruit",
+      "description": "A long, yellow fruit with soft sweet flesh and a peel, commonly eaten as a snack."
+    },
+    {
+      "word": "computer",
+      "category": "Technology",
+      "description": "An electronic device used to process data and perform tasks ranging from simple calculations to complex operations."
+    },
+    {
+      "word": "hangman",
+      "category": "Game",
+      "description": "A classic word guessing game where players try to guess letters to avoid a stick figure's fate."
+    },
+    {
+      "word": "javascript",
+      "category": "Programming Language",
+      "description": "A versatile scripting language primarily used in web development to add interactivity to websites."
+    },
+    {
+      "word": "notebook",
+      "category": "Stationery",
+      "description": "A set of pages bound together, used for writing, taking notes, or journaling."
+    },
+    {
+      "word": "puzzle",
+      "category": "Game",
+      "description": "A game or problem that tests a person's ingenuity or knowledge, often used for entertainment and learning."
+    },
+    {
+      "word": "giraffe",
+      "category": "Animal",
+      "description": "The tallest land animal, known for its long neck and legs, and spotted coat."
+    },
+    {
+      "word": "elephant",
+      "category": "Animal",
+      "description": "A large mammal with a trunk, known for its intelligence and social behavior."
+    },
+    {
+      "word": "umbrella",
+      "category": "Object",
+      "description": "A folding canopy supported by ribs, used for protection against rain or sunlight."
+    },
+    {
+      "word": "oxygen",
+      "category": "Element",
+      "description": "A chemical element essential for respiration, making up about 21% of Earth's atmosphere."
+    },
+    {
+      "word": "knowledge",
+      "category": "Concept",
+      "description": "Information, understanding, and skills acquired through experience or education."
+    },
+    {
+      "word": "adventure",
+      "category": "Experience",
+      "description": "An exciting or unusual experience, often involving exploration or unknown outcomes."
+    },
+    {
+      "word": "mountain",
+      "category": "Geography",
+      "description": "A large natural elevation of the earth's surface, often part of a range."
+    },
+    {
+      "word": "python",
+      "category": "Programming Language",
+      "description": "A popular programming language known for its readability and simplicity."
+    },
+    {
+      "word": "keyboard",
+      "category": "Technology",
+      "description": "A hardware input device consisting of keys used to type text and commands."
+    },
+    {
+      "word": "language",
+      "category": "Concept",
+      "description": "A system of communication used by a particular community or country."
+    },
+    {
+      "word": "developer",
+      "category": "Profession",
+      "description": "A person who creates software applications, websites, or systems."
+    },
+    {
+      "word": "internet",
+      "category": "Technology",
+      "description": "A global network that connects millions of computers, enabling communication and access to information."
+    },
+    {
+      "word": "algorithm",
+      "category": "Computer Science",
+      "description": "A step-by-step procedure for solving a problem or performing a computation."
+    },
+    {
+      "word": "bicycle",
+      "category": "Vehicle",
+      "description": "A two-wheeled vehicle powered by pedaling, often used for transportation or sport."
+    },
+    {
+      "word": "library",
+      "category": "Place",
+      "description": "A collection of books and other resources available for reading and research, often in a quiet space."
+    },
+    {
+      "word": "coconut",
+      "category": "Fruit",
+      "description": "A tropical fruit with a hard shell, containing water and white edible flesh."
+    },
+    {
+      "word": "diamond",
+      "category": "Gemstone",
+      "description": "A precious and extremely hard gemstone, often used in jewelry and known for its brilliance."
+    },
+    {
+      "word": "penguin",
+      "category": "Animal",
+      "description": "A flightless seabird that lives in the Southern Hemisphere and is known for its tuxedo-like appearance."
+    },
+    {
+      "word": "volcano",
+      "category": "Geography",
+      "description": "A mountain that can erupt with lava, ash, and gases from beneath the Earth's crust."
+    },
+    {
+      "word": "treasure",
+      "category": "Object",
+      "description": "Valuable items such as gold, jewels, or artifacts, often sought in stories of exploration."
+    },
+    {
+      "word": "spaceship",
+      "category": "Technology",
+      "description": "A vehicle designed to travel in outer space, often associated with space exploration or science fiction."
+    },
+    {
+      "word": "microscope",
+      "category": "Instrument",
+      "description": "A device used to magnify and view tiny objects that are not visible to the naked eye."
+    },
+    {
+      "word": "telescope",
+      "category": "Instrument",
+      "description": "An optical instrument used to observe distant objects, such as stars and planets."
+    }
+  ]
+}
