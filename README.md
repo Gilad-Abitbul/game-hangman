@@ -1,54 +1,35 @@
-# React + TypeScript + Vite
+#  Hangman Game — React + TypeScript
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A classic Hangman word-guessing game built using **React** and **TypeScript**. Includes a visual drawing, an interactive on-screen keyboard, win/lose modals, and detailed word metadata like **category** and **description**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🧠 Features
 
-## Expanding the ESLint configuration
+- 🎨 Visual hangman drawing that updates with incorrect guesses  
+- ⌨️ Interactive keyboard and real keyboard support  
+- 📚 Word metadata: category + short description  
+- 🧠 Win/Lose detection with animated dialog/modal  
+- 🔄 "Play Again" button resets the game instantly  
+- 🧼 Clean UI with responsive layout  
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+---
+## 🚀 Getting Started
 
-```js
-export default tseslint.config({
-  extends: [
-    // Remove ...tseslint.configs.recommended and replace with this
-    ...tseslint.configs.recommendedTypeChecked,
-    // Alternatively, use this for stricter rules
-    ...tseslint.configs.strictTypeChecked,
-    // Optionally, add this for stylistic rules
-    ...tseslint.configs.stylisticTypeChecked,
-  ],
-  languageOptions: {
-    // other options...
-    parserOptions: {
-      project: ['./tsconfig.node.json', './tsconfig.app.json'],
-      tsconfigRootDir: import.meta.dirname,
-    },
-  },
-})
+### 1. Clone the repo
+
+```bash
+git clone https://github.com/Gilad-Abitbul/game-hangman.git
+cd game-hangman
 ```
+### 2. Install dependencies
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
-
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
-
-export default tseslint.config({
-  plugins: {
-    // Add the react-x and react-dom plugins
-    'react-x': reactX,
-    'react-dom': reactDom,
-  },
-  rules: {
-    // other rules...
-    // Enable its recommended typescript rules
-    ...reactX.configs['recommended-typescript'].rules,
-    ...reactDom.configs.recommended.rules,
-  },
-})
+```bash
+npm install
 ```
+### 3. Run the app locally
+
+```bash
+npm run dev
+```
+The app will be available at http://localhost:5173 (if using Vite).
